@@ -1,5 +1,5 @@
 import 'package:doanthuchanh/Page/Trangchu/TrangChu.dart';
-import 'package:doanthuchanh/Page/Trangchu/TrangChu2.dart';
+import 'package:doanthuchanh/Page/Trangchu/homePage.dart';
 import 'package:doanthuchanh/Page/auth/login.dart';
 
 import 'package:doanthuchanh/Page/cart/cart.dart';

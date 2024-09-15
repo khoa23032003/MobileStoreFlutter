@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:doanthuchanh/data/api.dart';
 import 'package:doanthuchanh/model/product.dart';
-import 'package:doanthuchanh/Page/Trangchu/sanpham.dart';
+import 'package:doanthuchanh/Page/Trangchu/productWidget.dart';
 
 class ProductCategory extends StatefulWidget {
   final String categoryId;

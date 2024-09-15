@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:doanthuchanh/Page/SanPham/SanPham.dart';
-import 'package:doanthuchanh/Page/Trangchu/TrangChu2.dart';
+import 'package:doanthuchanh/Page/Product/product.dart';
+import 'package:doanthuchanh/Page/Trangchu/homePage.dart';
 
 import 'package:doanthuchanh/admin/category/category_list.dart';
 import 'package:doanthuchanh/admin/product/product_list.dart';

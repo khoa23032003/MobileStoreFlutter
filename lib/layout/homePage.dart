@@ -1,6 +1,6 @@
-import 'package:doanthuchanh/Page/SanPham/ChiTiet.dart';
+import 'package:doanthuchanh/Page/Product/detail.dart';
 import 'package:doanthuchanh/Page/Trangchu/TrangChu.dart';
-import 'package:doanthuchanh/Page/Trangchu/TrangChu2.dart';
+import 'package:doanthuchanh/Page/Trangchu/homePage.dart';
 import 'package:doanthuchanh/layout/bottomnav.dart';
 import 'package:doanthuchanh/Page/cart/cart.dart';
 import 'package:doanthuchanh/layout/detail.dart';

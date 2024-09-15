@@ -1,4 +1,4 @@
-import 'package:doanthuchanh/Page/cart/ThanhCong.dart';
+import 'package:doanthuchanh/Page/cart/orderSuccessfully.dart';
 import 'package:doanthuchanh/layout/homePage.dart';
 import 'package:doanthuchanh/data/api.dart';
 import 'package:doanthuchanh/data/sqlite.dart';

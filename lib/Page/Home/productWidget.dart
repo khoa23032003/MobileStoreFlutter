@@ -1,4 +1,4 @@
-import 'package:doanthuchanh/Page/SanPham/ChiTiet.dart';
+import 'package:doanthuchanh/Page/Product/detail.dart';
 import 'package:doanthuchanh/data/sqlite.dart';
 import 'package:doanthuchanh/model/cart.dart';
 import 'package:doanthuchanh/model/favourite.dart';

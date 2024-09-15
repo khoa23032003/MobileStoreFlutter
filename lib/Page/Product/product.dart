@@ -9,7 +9,7 @@ import 'package:doanthuchanh/model/product.dart';
 import 'package:doanthuchanh/value/app_color.dart';
 import 'package:doanthuchanh/value/app_font.dart';
 
-import 'ChiTiet.dart';
+import 'detail.dart';
 
 class TrangSanPham extends StatefulWidget {
   const TrangSanPham({Key? key}) : super(key: key);
